@@ -16,4 +16,8 @@ main()
     cout<<" b "<< b<<endl;
     cout<<"c "<< c<<endl;
 
+    cout<<"  a  "<<a<<endl;
+    cout<<" b "<< b<<endl;
+    cout<<"c "<< c<<endl;
+
 }
